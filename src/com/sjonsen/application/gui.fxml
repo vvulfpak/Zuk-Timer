@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mouseTransparent="false" prefHeight="90.0" prefWidth="200.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="com.sjonsen.application.Controller">
+  <children>
+    <Label fx:id="topText" alignment="BASELINE_CENTER" prefHeight="16.0" prefWidth="139.8700048828125" text="=sjonsen" textAlignment="CENTER" underline="true" AnchorPane.bottomAnchor="72.0" AnchorPane.leftAnchor="30.07" AnchorPane.rightAnchor="30.06" AnchorPane.topAnchor="2.0">
+      <font>
+        <Font name="Gunny Manual Medium" size="13.0" />
+      </font>
+    </Label>
+    <Label fx:id="timerField" alignment="BASELINE_CENTER" prefHeight="82.0" prefWidth="227.0" text="03:30" textAlignment="CENTER" underline="false" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="22.0" AnchorPane.rightAnchor="21.0" AnchorPane.topAnchor="18.0">
+      <font>
+        <Font name="Cambria" size="60.0" />
+      </font>
+    </Label>
+    <ImageView fx:id="setupButton" fitHeight="16.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="68.0" AnchorPane.leftAnchor="178.0" AnchorPane.rightAnchor="6.0" AnchorPane.topAnchor="6.0">
+      <image>
+        <Image url="@key.png" />
+      </image>
+    </ImageView>
+  </children>
+</AnchorPane>
