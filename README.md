@@ -13,7 +13,8 @@ Initially made for Adwaam when he was going for his first 1 def cape.
 ### Custom Keybinds
 
 Alternatively you can press the 'QWESD' keys button to setup your own keybinds, simply follow the text instructions.  
-These will be saved so you only need to do this once.
+These will be saved so you only need to do this once.  
+Hover your mouse over the 'QWESD' keys button to check what your current keybinds are.
 
 ### Reset Timer
 Click the timer text to reset the timer.
