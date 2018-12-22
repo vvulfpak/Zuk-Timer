@@ -15,7 +15,7 @@ Initially made for Adwaam when he was going for his first 1 def cape.
 Alternatively you can press the 'QWESD' keys button to setup your own keybinds, simply follow the text instructions.
 
 ### Reset Timer
-* Click the timer text to reset the timer
+Click the timer text to reset the timer
 
 ## Demonstration
 
