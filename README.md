@@ -5,17 +5,17 @@ Initially made for Adwaam when he was going for his first 1 def cape.
 
 ## Keybinds
 
-..### Default Keybinds
+### Default Keybinds
 
-..* Space: Pause/resume the timer
-..* Esc: Add 1:45 (extra Jad time)
+* Space: Pause/resume the timer
+* Esc: Add 1:45 (extra Jad time)
 
-..### Custom Keybinds
+### Custom Keybinds
 
-..Alternatively you can press the 'QWESD' keys button to setup your own keybinds, simply follow the text instructions.
+Alternatively you can press the 'QWESD' keys button to setup your own keybinds, simply follow the text instructions.
 
-..### Reset Timer
-..* Click the timer text to reset the timer
+### Reset Timer
+* Click the timer text to reset the timer
 
 ## Demonstration
 
