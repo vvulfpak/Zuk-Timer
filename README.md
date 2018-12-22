@@ -1,6 +1,6 @@
 # Zuk Timer
 
-Zuk timer to keep track of the time until the next set spawns.⋅⋅
+Zuk timer to keep track of the time until the next set spawns.  
 Initially made for Adwaam when he was going for his first 1 def cape.
 
 ## Keybinds
